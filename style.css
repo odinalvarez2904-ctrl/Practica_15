@@ -7,6 +7,12 @@ p{
 p{
     color: rgb(142, 13, 168);
 }
-h4{
+h1{
     color: rgb(131, 93, 11); font-style: italic; font-size: 55px;
 }
+ol{
+    font-size: 40px; font-style: italic;
+}
+ol{
+    color: rgb(142, 13, 168);
+}}
